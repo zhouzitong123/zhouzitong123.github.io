@@ -83,15 +83,15 @@
 <body>
     <div class="card">
         <!-- 在这里修改你的信息 -->
-        <h1 class="name">你的姓名</h1>
-        <p class="major">所学专业</p>
-        <p class="intro">这里填写你的一句话个人简介，积极阳光一点哦~</p>
+        <h1 class="name">周子通</h1>
+        <p class="major">船舶与海洋工程 轮机工程</p>
+        <p class="intro">在静谧中寻找快乐</p>
         
         <h3 class="hobby-title">兴趣爱好</h3>
         <div class="hobby-list">
-            <span class="hobby-tag">阅读</span>
-            <span class="hobby-tag">运动</span>
-            <span class="hobby-tag">编程</span>
+            <span class="hobby-tag">看小说</span>
+            <span class="hobby-tag">打篮球</span>
+            <span class="hobby-tag">学数学</span>
             <span class="hobby-tag">听歌</span>
         </div>
     </div>
