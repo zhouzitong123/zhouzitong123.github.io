@@ -1,5 +1,3 @@
-# zhouzitong123.github.io
-我的个人网页
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
